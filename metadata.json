@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Trivia Duel",
+  "description": "A head-to-head 2-player trivia battle powered by Gemini AI. Test your knowledge against a friend on any topic imaginable.",
+  "requestFramePermissions": []
+}
